@@ -1,0 +1,55 @@
+
+
+body {
+    width: 22cm;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(215, 255, 215, 0.555);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body div{
+    border: 5px;
+    padding: 10px;
+}
+
+
+.img1{
+    margin-left: 550px;
+    margin-top: -500px;
+    margin-bottom: -auto;
+}
+.section2{
+    margin-top: -25px;
+}
+.ul1{
+    font-size: 20px;
+    margin-left: -40px;
+}
+.ul2{
+    margin-left: -40px;
+}
+.ul3{
+    font-size: 20px;
+    margin-left: -40px;
+}
+.ul4{
+    font-size: 20px;
+    margin-left: -40px;  
+}
+.ul5{
+    font-size: 20px;
+    margin-left: -40px;
+}
+.ul6{
+    font-size: 20px;
+    margin-left: -40px;
+}
+.ul7{
+    font-size: 20px;
+    margin-left: -40px;
+}
+.ul8{
+    font-size: 20px;
+    margin-left: -40px;
+}
