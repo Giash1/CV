@@ -5,12 +5,20 @@ body {
     margin-left: auto;
     margin-right: auto;
     background-color: rgba(215, 255, 215, 0.555);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif; color: solid black;
+    border: solid rgba(36, 95, 18, 0.5);
+    font-display: flex;
+    padding: 2px;
+    font-size: 18px;
+
 
 }
 body div{
-    border: 5px;
-    padding: 10px;
+    border-right-style: dotted;color: black; width: auto;
+    border-left-style: double;color: blueviolet;
+    border-top-style: groove;color: chartreuse; width: auto;
+    border-bottom-style: ridge;color: cyan;
+    
 }
 
 
